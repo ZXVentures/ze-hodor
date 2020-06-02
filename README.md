@@ -2,4 +2,4 @@
 <img align="left" width="0" height="192px" hspace="10"/>
 
 
-### This repository is the service to manage bookings on Zé Delivery rooms. 
+### This repository is the App to manage bookings on Zé Delivery rooms. 
